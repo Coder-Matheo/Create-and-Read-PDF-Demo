@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Create and Read PDF Demo</string>
+    <string name="read_pdf">Read PDF</string>
+    <string name="create_pdf">Create PDF</string>
+</resources>
